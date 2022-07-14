@@ -46,7 +46,10 @@ git add -u # u stand for update
 
 git add -A # will cover all type of modification 
 
+# if u change ouside of git it is better to use git add -u 
+rm myfile.txt
 
+git add -u
 
 
 

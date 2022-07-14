@@ -14,6 +14,7 @@ git init .
 
 
 git log 
+git show
 
 
 

@@ -16,7 +16,7 @@ git init .
 git log 
 git show
 
-
+git ls-files
 
 
 

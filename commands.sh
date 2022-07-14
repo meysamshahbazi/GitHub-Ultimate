@@ -18,5 +18,8 @@ git show
 
 git ls-files
 
+cd files/
+
+
 
 

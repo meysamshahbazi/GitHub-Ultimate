@@ -39,6 +39,12 @@ git config --global --list
 git mv example.txt demo.txt
 git rm demo.txt
 
+# in outside of git 
+mv LICENCE.md LICENCE.txt
+# u need use this 
+git add -u # u stand for update
+
+git add -A # will cover all type of modification 
 
 
 

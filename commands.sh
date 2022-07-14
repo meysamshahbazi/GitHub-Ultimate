@@ -90,6 +90,7 @@ git stash list
 
 git stash pop 
 
+git reset 392fdbd --soft
 
 
 

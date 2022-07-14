@@ -85,6 +85,12 @@ git tag -d mytag
 git tag -a v1.0 -m "Realese 1.0"
 git show v1.0
 
+git stash 
+git stash list
+
+git stash pop 
+
+
 
 
 

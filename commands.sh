@@ -37,6 +37,8 @@ git config --global --list
 
 # rename files
 git mv example.txt demo.txt
+git rm demo.txt
+
 
 
 

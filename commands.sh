@@ -18,7 +18,10 @@ git show
 
 git ls-files
 
-cd files/
+git reset HEAD FILNENAME# head is special pointer 
+# by this command change in FILNENAME still will be there
+# in order to reset those chech use this:
+git checkout -- FILNENAME 
 
 
 

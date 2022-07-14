@@ -74,6 +74,17 @@ git merge updates
 # now delete updates branch 
 git branch -d updates
 
+# tag 
+git tag mytag # chnge 
+git tag --list
+
+# for deleting tag
+git tag -d mytag
+
+# annotated tag
+git tag -a v1.0 -m "Realese 1.0"
+git show v1.0
+
 
 
 

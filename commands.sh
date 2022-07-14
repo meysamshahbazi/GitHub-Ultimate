@@ -35,6 +35,9 @@ git hist
 
 git config --global --list
 
+# rename files
+git mv example.txt demo.txt
+
 
 
 

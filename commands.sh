@@ -69,9 +69,9 @@ git diff updates main
 
 # go back to main branch
 git checkout main 
-
+# merge changes to main branch
 git merge updates
-
+# now delete updates branch 
 git branch -d updates
 
 

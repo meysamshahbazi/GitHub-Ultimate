@@ -62,6 +62,18 @@ git diff 144746d HEAD
 git diff 
 
 # branch is just timeline of commit!
+git branch # list the bracnches
+git checkout -b updates
+# do some change and commit them
+git diff updates main 
+
+# go back to main branch
+git checkout main 
+
+git merge updates
+
+git branch -d updates
+
 
 
 

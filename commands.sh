@@ -57,7 +57,11 @@ git add -u
 
 git diff 144746d 01fbf80
 git diff 144746d HEAD 
- 
+
+# to show last change with HEAD 
+git diff 
+
+# branch is just timeline of commit!
 
 
 

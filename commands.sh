@@ -1,4 +1,5 @@
 #!/usr/bin/sh
+# 4. The Basics
 # initiall project with git
 git init
 code README.md
@@ -50,6 +51,13 @@ git add -A # will cover all type of modification
 rm myfile.txt
 
 git add -u
+
+# use .gitignore bro!
+# 5. Advanced Beyond the Basics
+
+git diff 144746d 01fbf80
+git diff 144746d HEAD 
+ 
 
 
 

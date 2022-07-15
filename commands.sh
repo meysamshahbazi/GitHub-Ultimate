@@ -99,5 +99,8 @@ git remote -v
 # push with tags
 git push -u origin main --tags
 
+git remote show  origin
+
+# watched til the end of 8. GitHub Repository section
 
 

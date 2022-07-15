@@ -92,6 +92,7 @@ git stash pop
 
 git reset 392fdbd --soft
 
+# 6. Welcome to GitHub
 
 
 

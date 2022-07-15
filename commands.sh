@@ -93,6 +93,11 @@ git stash pop
 git reset 392fdbd --soft
 
 # 6. Welcome to GitHub
+# Linking to our GitHub Repository 
+git remote add origin [url]
+git remote -v 
+# push with tags
+git push -u origin main --tags
 
 
 

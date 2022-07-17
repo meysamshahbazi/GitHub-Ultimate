@@ -142,4 +142,6 @@ git push origin --tags
 git push origin :tagname
 # change tag's commit id: 
 git tag -f v0.1-alpha 71f7a88
-git push --force origin v0.1-alphas 
+git push --force origin v0.1-alphas     
+
+# Comparing Differences

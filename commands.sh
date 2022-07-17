@@ -132,3 +132,5 @@ git push origin :update-readme
 
 # Pull with Rebase
 git pull --rebase
+
+# GitHub Tags and Releases

@@ -114,3 +114,18 @@ git branch -a
 git fetch -p 
 
 git branch -a
+
+# create branch on github and use it in local
+git checkout update-readme 
+git branch 
+git status 
+git commit -am "more edit"
+git push 
+
+git checkout main
+
+git merge update-readme
+# delete useless branch localy
+git branch -d update-readme
+# delete that branch on remote
+git push origin :update-readme 

@@ -129,3 +129,5 @@ git merge update-readme
 git branch -d update-readme
 # delete that branch on remote
 git push origin :update-readme 
+
+# Pull with Rebase

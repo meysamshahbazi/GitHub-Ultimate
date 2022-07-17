@@ -101,6 +101,11 @@ git push -u origin main --tags
 
 git remote show  origin
 
-# watched til the end of 8. GitHub Repository section
-
-
+# 8. GitHub Repository section
+# 9. GitHub Repository Branches
+git checkout -b example
+git branch 
+git status 
+git commit -am "edit in example bracnch"
+git status 
+git push -u origin example

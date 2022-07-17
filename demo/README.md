@@ -7,3 +7,4 @@ update in stage
 more update in working dir
 add text for fetch in local
 
+add text for example branch local

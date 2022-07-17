@@ -131,3 +131,4 @@ git branch -d update-readme
 git push origin :update-readme 
 
 # Pull with Rebase
+git pull --rebase

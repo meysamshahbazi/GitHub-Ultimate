@@ -109,3 +109,8 @@ git status
 git commit -am "edit in example bracnch"
 git status 
 git push -u origin example
+
+git branch -a
+git fetch -p 
+
+git branch -a

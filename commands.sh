@@ -134,3 +134,7 @@ git push origin :update-readme
 git pull --rebase
 
 # GitHub Tags and Releases
+git tag -a v0.1-alpha -m "Release 0.1 (Alpha)" c1bcb0d
+git push origin tagname
+# for push all tags: 
+git push origin --tags
